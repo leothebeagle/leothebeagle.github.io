@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Omniauth with Instagram and Devise"
-date:       2019-08-24 17:20:45 +0000
+date:       2019-08-24 13:20:46 -0400
 permalink:  omniauth_with_instagram_and_devise
 ---
 
