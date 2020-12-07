@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "A React-Rails ecommerce site."
-date:       2020-12-07 22:35:37 +0000
+date:       2020-12-07 17:35:38 -0500
 permalink:  a_react-rails_ecommerce_site
 ---
 
 
-This article is meant to accompany an app that I built for my graduation project for the Flatiron School. The code for the front-end can be found here:
-And the repo for the backend is here.
+This article is meant to accompany an app that I built for my graduation project for the Flatiron School. The code for the front-end can be found [here](https://github.com/leothebeagle/siwa-ecommerce-react-frontend)
+And the repo for the backend is [here](https://github.com/leothebeagle/siwa-ecommerce-rails-backend).
 
 This is a basic ecommerce site, which is built using React, Redux, Thunk and React-Router on the frontend, and Rails on the backend. This will be useful to you if you’re currently building your first full-stack-app and would like to take a look at how all the different parts come together and communicate. 
 
